@@ -101,7 +101,7 @@ if __name__ == '__main__':
     ############################################
 
 
-    Q = np.zeros([161, env.action_space.n])
+    Q = np.zeros([162, env.action_space.n])
 
     ############################################
     # CS482: Here are some of the RL parameters
